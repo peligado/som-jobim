@@ -1,0 +1,10 @@
+# Variáveis de ambiente
+.env
+.env.*
+
+# Vercel
+.vercel
+
+# Dependências e sistema
+node_modules/
+.DS_Store
